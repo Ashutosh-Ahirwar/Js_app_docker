@@ -150,7 +150,4 @@ docker build -t my-app:1.0 .
 - `-t my-app:1.0`: Tag the image as `my-app` with version `1.0`.
 - The dot (`.`) at the end of the command denotes the location of the Dockerfile.
 
----
 
-This README provides a detailed guide for setting up and running the app using Docker and Docker Compose.
-```
